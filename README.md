@@ -1,3 +1,27 @@
+## Here are the four plots that I created.
+
+They are located in the figure folder.
+
+### Plot 1
+
+
+![plot of plot1](figure/plot1.png) 
+
+
+### Plot 2
+
+![plot of plot2](figure/plot2.png) 
+
+
+### Plot 3
+
+![plot of plot3](figure/plot3.png) 
+
+
+### Plot 4
+
+![plot of plot4](figure/plot4.png) 
+
 ## Introduction
 
 This assignment uses data from
@@ -88,26 +112,4 @@ When you are finished with the assignment, push your git repository to
 GitHub so that the GitHub version of your repository is up to
 date. There should be four PNG files and four R code files.
 
-Here are the four plots that I created.
-
-
-### Plot 1
-
-
-![plot of plot1](figure/plot1.png) 
-
-
-### Plot 2
-
-![plot of plot2](figure/plot2.png) 
-
-
-### Plot 3
-
-![plot of plot3](figure/plot3.png) 
-
-
-### Plot 4
-
-![plot of plot4](figure/plot4.png) 
 
